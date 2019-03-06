@@ -1,7 +1,0 @@
-{
-    "terminal.integrated.env.osx": {
-        "PATH": "/Users/mehulrao/.platformio/penv/bin:/Users/mehulrao/.platformio/penv:/Users/mehulrao/perl5/bin:/opt/theos/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/MacGPG2/bin:/opt/X11/bin:/Users/mehulrao",
-        "PLATFORMIO_CALLER": "vscode"
-    },
-    "C_Cpp.intelliSenseEngineFallback": "Disabled"
-}

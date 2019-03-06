@@ -8,3 +8,4 @@
 .travis.yml
 Weather.code-workspase
 platformio.ini
+*.code-workspace
